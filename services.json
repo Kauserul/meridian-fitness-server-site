@@ -1,51 +1,13 @@
 [
-    {
-        "img" : "https://chaldn.com/_mpimage?src=https%3A%2F%2Fapi.cookups.app%2Fsubject%2FDish%2Fblob%2F37eExjOBG9b9yFb0r1Ik7A%2Fygw0DHhGgk2acUHiuGCxAA&q=good&v=1&m=960&webp=1",
-        "name" : "5 Sticks Chicken Sashlik Kabab",
-        "rating" : "730 rating",
-        "price" : "$ 40",
-        "des" : "The delicious Chicken saslhic Kabab has been made by boneless chicken  capsicum, carrot, tomato. Per portion contains of 5 sticks.         Try it out diners. I am sure it won't be disappointing.  If you want to add Paratha and Raita select from extra."
-    
+    {   
+        "img" : "https://chaldn.com/_mpimage?src=https%3A%2F%2Fcookupsapp.s3.amazonaws.com%2Fmedia%2F028f1787-fd0f-4b8f-9d4b-78bf39f07dd3.jpg&q=good&v=1&m=400&webp=1",
+        "name" : "Fahima Sharmin",
+        "txt" : "Excellent as always!!" 
     },
     {
-        "img" : "https://chaldn.com/_mpimage?src=https%3A%2F%2Fcookupsapp.s3.amazonaws.com%2Fmedia%2Faeb332d5-25cb-4880-98af-1b379d944627.jpeg&q=good&v=1&m=960&webp=1%22",
-        "name" : "750 gm Milk Egg Caramel Pudding",
-        "rating" : "344 rating",
-        "price" : "$ 45",
-        "des" : "This soft pudding is not only looks nice  also delicious. It provides you enough calcium, protein, lipids and different types of vitamin. All ingredients are fresh and healthy here."
-    },
-    {
-        "img" : "https://chaldn.com/_mpimage?src=https%3A%2F%2Fapi.cookups.app%2Fsubject%2FDish%2Fblob%2F1T1ObAf0e0aqGTtvibvjLQ%2FVdDCh6sTKEGukyodVo3SHg&q=good&v=1&m=960&webp=1%22",
-        "name" : "1 kg Whole Charcoal Grill Chicken Roast with Luchi",
-        "rating" : "333 rating",
-        "price" : "$ 89",
-        "des" : "This charcoal grill chicken is very tasty, used some secret spices, ideal for kabab lovers!! You will get 8 luchis with this platter"
-
-    },
-    {
-        "img" : "https://chaldn.com/_mpimage?src=https%3A%2F%2Fcookupsapp.s3.amazonaws.com%2Fmedia%2F07eb0bfd-25ce-4580-8b01-813795c4b04b.jpg&q=good&v=1&m=960&webp=1",
-        "name" : "1 Pound Beef Meat Loaf",
-        "rating" : "551 rating",
-        "price" : "$ 88",
-        "des" : "Delicious glazed meat loaf made with beef. Comes with 200g mashed potato. If you want more creamy mashed potatoes on the side, order from extras"
-
-    },
-    {
-        "img" : "https://chaldn.com/_mpimage?src=https%3A%2F%2Fcookupsapp.s3.amazonaws.com%2Fmedia%2F35396be9-dd15-4d10-88f6-3eea5d1fc213.JPG&q=good&v=1&m=960&webp=1",
-        "name" : "Szechuan Chicken Rice Platter with Pudding",
-        "rating" : "551 rating",
-        "price" : "$ 95",
-        "des" : "A full platter with Szechuan chicken, fried rice and dumplings with a refreshing jello pudding to complete the meal"
-
-    },
-    {
-        "img" : "https://chaldn.com/_mpimage?src=https%3A%2F%2Fcookupsapp.s3.amazonaws.com%2Fmedia%2Ff260eb6b-23ac-45e2-8124-b11d8621eab8.jpg&q=good&v=1&m=960&webp=1",
-        "name" : "Kofta Pulao, Biye Barir Roast, Chingri Malai Curry",
-        "rating" : "321 rating",
-        "price" : "$ 105",
-        "des" : "Have a dawat and want a nice feast of these bengali delicacies? Look no further!To add on dessert, click extras The polau has chicken kofta. If you want beef kofta instead of chicken, click extras to select as add-on."
+        "img" : "https://chaldn.com/_mpimage?src=https%3A%2F%2Fapi.cookups.app%2Fsubject%2FUser%2Fblob%2F9M_Rt39R4kfTL8gCsYcZ8w%2FFkQNa6csa0i6gBs6-TPAUw&q=good&v=1&m=400&webp=1",
+        "name" : "Shirin Shampa",
+        "txt" : "Delicious! My children finished it as soon as they got their hands on it. Want to order more. Please notify. Something wrong with the cookups app."
     }
-
-
 ]
         
