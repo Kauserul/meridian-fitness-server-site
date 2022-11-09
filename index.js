@@ -32,6 +32,13 @@ async function run(){
             res.send(service)
         })
 
+        app.post('/services', async(req, res) =>{
+            const food = req.body
+            // console.log(food)
+            const result = await serviceCollection.insertOne(food)
+            res.send(result)
+        })
+
 
         // review api
         app.get('/myReview', async(req, res) =>{
@@ -57,6 +64,14 @@ async function run(){
         app.post('/review', async(req, res) =>{
             const review = req.body
             const result = await reviewCollection.insertOne(review)
+            res.send(result)
+        })
+
+        app.delete('/review/:id', async(req,res) =>{
+            const id = req.params.id
+            // console.log(id)
+            const query = {_id : ObjectId(id)}
+            const result = await reviewCollection.deleteOne(query)
             res.send(result)
         })
     }
